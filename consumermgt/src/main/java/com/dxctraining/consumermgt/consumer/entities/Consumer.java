@@ -14,7 +14,7 @@ public class Consumer {
 	private int id;
 
 	private String name;
-
+	
 	public Consumer() {
 	}
 
